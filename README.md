@@ -174,5 +174,5 @@ Tech stacks:<br/>
 C#.NET, ASP.NET, Silverlight, SQL Server 2005, Telerik web controls, WCF, WPF
 
 <h3>Education</h3>
-Bachelor of Computer Science & Engineering
+Bachelor of Computer Science & Engineering<br/>
 Jahangirnagar University
