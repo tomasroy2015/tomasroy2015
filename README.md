@@ -30,11 +30,9 @@ Applications in production
 https://www.e-doctor.ne.jp/<br/>
 https://www.e-dentist.co.jp/<br/>
 http://www.trans-pro.net<br/>
-https://b-cause-erp.com/<br/>
+https://www.b-cause-erp.com/<br/>
 https://www.gbsextranet.com/<br/>
-https://action.itsat.com/<br/>
 https://welcome.mdlive.com/assessments/<br/>
-https://users.itsat.com<br/>
 https://www.speedyservices.com<br/>
 https://room.rakuten.co.jp/<br/>
 
