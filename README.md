@@ -21,14 +21,12 @@ That's the end of my work  and personal summary.
 Thank you.
 </p>
 
-<div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasroy2015&show_icons=true&theme=gradient&include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tomasroy2015&show_icons=true&theme=gradient&include_all_commits=true" style="max-width: 100%;">
-</div>
 
-<h4>Technology mostly used</h4>
+<h3>Technology mostly used</h3>
 <hr/>
 <div dir="auto">
-  <p>
+<p>
 <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="max-width: 100%;">
   <img align="center" alt="csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" style="max-width: 100%;">
  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
@@ -49,7 +47,6 @@ Thank you.
 <img align="center" alt="azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="max-width: 100%;">
 </p>
 <p>
-
 <img align="center" alt="azure" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" style="max-width: 100%;">
 <img align="center" alt="kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" style="max-width: 100%;">
 <img align="center" alt="bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="max-width: 100%;">
