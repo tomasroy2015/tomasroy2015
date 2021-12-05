@@ -20,6 +20,11 @@ I would like to add one more thing that i am a music lover, i play guitar to ref
 That's the end of my work  and personal summary.
 Thank you.
 </p>
+
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasroy2015&show_icons=true&theme=gradient&include_all_commits=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=tomasroy2015&show_icons=true&theme=gradient&include_all_commits=true" style="max-width: 100%;">
+</div>
+
 <h4>Technology mostly used</h4>
 <hr/>
 <div dir="auto">
