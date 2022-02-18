@@ -16,7 +16,7 @@ Using Prometheus, Grafana as monitoring tools.
  Currently, am working in a large-scale distributed system in Japan's largest e-commerce platform. 
 Main responsibilities are designing & implementing the Microservices and integrating external micro-services who is responsible to make the services more scalable, fault tolerant. I do analysis, introduce new technologies if my team needs it.
 
-I am passionate about learning new technologies and love to work in acollaborative way.
+I am passionate about learning new technologies and love to work in a collaborative culture.
 
 I would like to add one more thing that I am a music lover, play guitar to refresh myself. I used to travel in the mountains and sea to escape from a monotonous life which helps to boost & reload me for a new start.
 
